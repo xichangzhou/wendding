@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-ts-scaffold"]=this["webpackJsonpreact-ts-scaffold"]||[]).push([[26],{1345:function(e,t,a){},1837:function(e,t,a){"use strict";a.r(t);var s=a(0),n=a.n(s);a(1345);t.default=function(){return n.a.createElement("div",{className:"parent"},n.a.createElement("div",{className:"sidebar"},"Min: 150px / Max: 25%"),n.a.createElement("div",{className:"content"},"This element takes the second grid position (1fr), meaning it takes up the rest of the remaining space."))}}}]);
+//# sourceMappingURL=26.c56d2e19.chunk.js.map

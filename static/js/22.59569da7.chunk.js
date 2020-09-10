@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-ts-scaffold"]=this["webpackJsonpreact-ts-scaffold"]||[]).push([[22],{1341:function(e,a,t){},1833:function(e,a,t){"use strict";t.r(a);var n=t(0),l=t.n(n);t(1341);a.default=function(){return l.a.createElement("div",{className:"container"},l.a.createElement("div",{className:"flexContainer"},l.a.createElement("div",{className:"gridContainer"},l.a.createElement("div",null,"Three"),l.a.createElement("div",null,"Four"),l.a.createElement("div",null,"Four1"),l.a.createElement("div",null,"Four1"))))}}}]);
+//# sourceMappingURL=22.59569da7.chunk.js.map

@@ -1,0 +1,2 @@
+.wrapper{margin:50px;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));grid-gap:10px 20px;grid-auto-rows:50px;grid-auto-flow:row dense}.one{background:#19caad}.two{background:#8cc7b5}.three{background:#d1ba74;grid-column-start:span 3}.four{background:#bee7e9}.five{background:#e6ceac}.six{background:#ecad9e}.item{text-align:center;font-size:200%;color:#fff}
+/*# sourceMappingURL=29.0b58d17a.chunk.css.map */

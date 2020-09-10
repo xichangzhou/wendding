@@ -1,0 +1,2 @@
+.container{display:flex;height:calc(100% - 5px);background:#f7f7f7}.column{display:inline-block;text-align:"center";width:320px;height:80vh}.columnTitle{color:#383838;font-size:14px;font-weight:600;line-height:40px;margin:0 10px}.columnContent,.columnContentActive{height:calc(100% - 5px);overflow:auto}.columnContentActive{background:#ccecff;border:2px solid #1b9aee}.issue{padding:15px}.issue,.issueDragging{text-align:center;position:relative;min-height:20px;background:#fff}.issueDragging{padding:14px;opacity:.9}
+/*# sourceMappingURL=20.35d14e94.chunk.css.map */

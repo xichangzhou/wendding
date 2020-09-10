@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-ts-scaffold"]=this["webpackJsonpreact-ts-scaffold"]||[]).push([[34],{1828:function(t,e,a){"use strict";a.r(e);var c=a(0),s=a.n(c),i=a(250),r=a(6);e.default=function(){var t=Object(r.g)();return s.a.createElement("div",{style:{width:"100%",height:"100%"}},Object(i.render)({type:"page",body:{type:"service",schemaApi:"/api/test/form/initData?id=".concat(t.state.id)}}))}}}]);
+//# sourceMappingURL=34.6127daab.chunk.js.map

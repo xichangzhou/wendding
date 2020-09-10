@@ -1,0 +1,2 @@
+.parent{display:grid;height:80vh;grid-template:auto 1fr auto/auto 1fr auto}header{background:#ffb6c1;padding:2rem;grid-column:1/4}.left-sidebar{background:#add8e6;grid-column:1/2}main{background:coral;grid-column:2/3}.right-sidebar{background:#ff0;grid-column:3/4}footer{background:wheat;padding:2rem;text-align:center;grid-column:1/4}.parent{font-family:system-ui,sans-serif}.left-sidebar,.right-sidebar{padding:1rem}
+/*# sourceMappingURL=28.96a37397.chunk.css.map */

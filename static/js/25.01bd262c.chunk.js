@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-ts-scaffold"]=this["webpackJsonpreact-ts-scaffold"]||[]).push([[25],{1344:function(e,a,t){},1836:function(e,a,t){"use strict";t.r(a);var c=t(0),s=t.n(c);t(1344);a.default=function(){return s.a.createElement("div",{className:"parent"},s.a.createElement("div",{className:"child_1"}),s.a.createElement("div",{className:"child_2"}),s.a.createElement("div",{className:"child_3"}))}}}]);
+//# sourceMappingURL=25.01bd262c.chunk.js.map
